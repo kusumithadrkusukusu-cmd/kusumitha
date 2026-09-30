@@ -1,1 +1,1 @@
-weather is cold
+weather cold
