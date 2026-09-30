@@ -1,2 +1,1 @@
-the weather is too cold
-its raining
+weather is cold
